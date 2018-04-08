@@ -1,0 +1,12 @@
+FoodBooking.Adapter, FoodBooking;md5bb0edc23dffb3eab2013f55741248166.Adapter
+FoodBooking.Adapter, FoodBooking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bb0edc23dffb3eab2013f55741248166.Adapter
+FoodBooking.Adapter;md5bb0edc23dffb3eab2013f55741248166.Adapter
+foodbooking.Adapter;md5bb0edc23dffb3eab2013f55741248166.Adapter
+FoodBooking.Cafe1, FoodBooking;md5bb0edc23dffb3eab2013f55741248166.Cafe1
+FoodBooking.Cafe1, FoodBooking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bb0edc23dffb3eab2013f55741248166.Cafe1
+FoodBooking.Cafe1;md5bb0edc23dffb3eab2013f55741248166.Cafe1
+foodbooking.Cafe1;md5bb0edc23dffb3eab2013f55741248166.Cafe1
+FoodBooking.MainActivity, FoodBooking;md5bb0edc23dffb3eab2013f55741248166.MainActivity
+FoodBooking.MainActivity, FoodBooking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bb0edc23dffb3eab2013f55741248166.MainActivity
+FoodBooking.MainActivity;md5bb0edc23dffb3eab2013f55741248166.MainActivity
+foodbooking.MainActivity;md5bb0edc23dffb3eab2013f55741248166.MainActivity

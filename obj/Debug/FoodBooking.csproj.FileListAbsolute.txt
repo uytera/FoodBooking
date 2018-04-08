@@ -1,0 +1,17 @@
+D:\AndroedProject\FoodBooking\bin\Debug\FoodBooking.dll
+D:\AndroedProject\FoodBooking\bin\Debug\FoodBooking.pdb
+D:\AndroedProject\FoodBooking\bin\Debug\FoodBooking.FoodBooking.apk
+D:\AndroedProject\FoodBooking\bin\Debug\FoodBooking.FoodBooking-Signed.apk
+D:\AndroedProject\FoodBooking\obj\Debug\FoodBooking.csprojResolveAssemblyReference.cache
+D:\AndroedProject\FoodBooking\obj\Debug\FoodBooking.csproj.CoreCompileInputs.cache
+D:\AndroedProject\FoodBooking\obj\Debug\FoodBooking.dll
+D:\AndroedProject\FoodBooking\obj\Debug\FoodBooking.pdb
+D:\AndroedProject\FoodBooking\obj\Debug\android\bin\FoodBooking.FoodBooking.apk
+D:\AndroedProject\FoodBooking\obj\Debug\res\layout\cafe.xml
+D:\AndroedProject\FoodBooking\obj\Debug\res\layout\cafe1.xml
+D:\AndroedProject\FoodBooking\obj\Debug\res\layout\main.xml
+D:\AndroedProject\FoodBooking\obj\Debug\res\values\strings.xml
+D:\AndroedProject\FoodBooking\obj\Debug\R.cs.flag
+D:\AndroedProject\FoodBooking\obj\Debug\uploadflags.txt
+D:\AndroedProject\FoodBooking\bin\Debug\FoodBooking.dll.mdb
+D:\AndroedProject\FoodBooking\obj\Debug\android\assets\FoodBooking.dll.mdb
