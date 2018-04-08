@@ -13,6 +13,8 @@ namespace FoodBooking
 
         List<string> list;
 
+        List<string> list2;
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
