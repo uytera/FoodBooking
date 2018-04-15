@@ -15,6 +15,8 @@ namespace FoodBooking
 
         List<string> list5;
 
+		List<int> intList;
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
