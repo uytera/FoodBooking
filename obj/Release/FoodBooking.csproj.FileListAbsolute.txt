@@ -14,3 +14,17 @@ D:\AndroedProject\FoodBooking\obj\Release\R.cs.flag
 D:\AndroedProject\FoodBooking\obj\Release\uploadflags.txt
 D:\AndroedProject\FoodBooking\bin\Release\FoodBooking.dll.mdb
 D:\AndroedProject\FoodBooking\obj\Release\android\assets\FoodBooking.dll.mdb
+C:\Users\1\Source\Repos\FoodBooking2\bin\Release\FoodBooking.dll
+C:\Users\1\Source\Repos\FoodBooking2\bin\Release\FoodBooking.pdb
+C:\Users\1\Source\Repos\FoodBooking2\bin\Release\FoodBooking.FoodBooking.apk
+C:\Users\1\Source\Repos\FoodBooking2\bin\Release\FoodBooking.FoodBooking-Signed.apk
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\FoodBooking.csproj.CoreCompileInputs.cache
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\FoodBooking.dll
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\FoodBooking.pdb
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\android\bin\FoodBooking.FoodBooking.apk
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\res\layout\cafe.xml
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\res\layout\cafe1.xml
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\res\layout\main.xml
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\res\values\strings.xml
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\R.cs.flag
+C:\Users\1\Source\Repos\FoodBooking2\obj\Release\uploadflags.txt
